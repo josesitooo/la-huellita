@@ -1,0 +1,14 @@
+html{
+	background-image:url("Imagenes/fondo.jpg");
+	background-repeat:no-repeat;
+	background-attachement:fixed;
+	background-position:center;
+	background-size:cover;
+}
+
+Body{
+	Margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
